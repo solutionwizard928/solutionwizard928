@@ -5,9 +5,9 @@
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/solutionwizard928/solutionwizard928/blob/main/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/solutionwizard928/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
