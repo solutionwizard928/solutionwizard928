@@ -90,11 +90,5 @@
 </div>
 
 <p align="center">
-  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
