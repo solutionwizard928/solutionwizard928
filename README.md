@@ -2,7 +2,7 @@
   Welcome to visit my github
 </h1>
 <h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
+  I am a Technical Leader & Full Stack & Blockchain Engineer.
 </h2>
 <div align="center">
   <img src="https://github.com/solutionwizard928/solutionwizard928/blob/main/divider1.png" alt="divider"/>
